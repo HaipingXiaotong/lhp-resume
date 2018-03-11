@@ -1,6 +1,9 @@
 # lhp-resume
+[![author](https://img.shields.io/badge/author-HP%E6%B5%B7%E5%B9%B3-brightgreen.svg)](https://github.com/HaipingXiaotong)
+![node](https://img.shields.io/badge/node-v6.2.2-yellow.svg)
+![react](https://img.shields.io/badge/vue-2.0.0+-yellow.svg)
 
-> 马上就要就业了，然后就写了这个简历
+> 马上就要就业了，即将步入社会求职，然后就写了这个简历，希望自己能更加优秀！
 
 
 ## 技术
