@@ -50,7 +50,7 @@ export default {
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-image: url('../../static/bannerFifth.jpg');
+    background-image: url('/static/bannerFifth.jpg');
     background-position: center;
     background-size: cover;
     overflow: hidden;

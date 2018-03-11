@@ -5,7 +5,7 @@
       </div>
       <div ref="experience" @mousemove="init" @mouseout="out" class="contrain">
           <div class="img">
-              <img src="../../static/expre.png" alt="">
+              <img src="/static/expre.png" alt="">
           </div>
           <div class="body">
             <h3>某某公司就业</h3>
@@ -46,7 +46,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('../../static/bannerFour.jpg');
+    background-image: url('/static/bannerFour.jpg');
     background-size: cover;
     background-position: center;
     overflow: hidden;

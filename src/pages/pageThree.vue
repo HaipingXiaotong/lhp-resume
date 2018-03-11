@@ -4,10 +4,10 @@
           <span>关于我的那些事</span>
       </div>
       <div class="msgs">
-           <msg src="../../static/img/age.png" label="年龄/21岁"></msg>
-           <msg src="../../static/img/colle.png" label="学历/本科"></msg>
-           <msg src="../../static/img/here.png" label="位置/南昌"></msg>
-           <msg src="../../static/img/time.png" label="就业/待业"></msg>
+           <msg src="/static/img/age.png" label="年龄/21岁"></msg>
+           <msg src="/static/img/colle.png" label="学历/本科"></msg>
+           <msg src="/static/img/here.png" label="位置/南昌"></msg>
+           <msg src="/static/img/time.png" label="就业/待业"></msg>
       </div>
       <div class="me">
         <p>大三学生，暂无经验，自学前端一年多</p>
