@@ -17,7 +17,7 @@ export const personMsg = [{
     icon: "folder_open",
     msg: '开源地址：<a class="a-active" href="https://github.com/HaipingXiaotong">https://github.com/HaipingXiaotong</a>'
 }]
-export const avatar = "url('/static/avatar.jpg')"
+export const avatar = "url('../../static/avatar.jpg')"
 export const outCircle = [{
     bc: "rgba(121,100,102,0.8)",
     skill: "vue"
@@ -57,37 +57,37 @@ export const inCircle = [{
     skill: "js"
 }]
 export const Menu = [{
-    img: "/static/img/title1.png",
+    img: "../../static/img/title1.png",
     title: "首页"
 }, {
-    img: "/static/img/title3.png",
+    img: "../../static/img/title3.png",
     title: "关于我"
 }, {
-    img: "/static/img/title5.png",
+    img: "../../static/img/title5.png",
     title: "技术栈"
 }, {
-    img: "/static/img/title6.png",
+    img: "../../static/img/title6.png",
     title: "经历"
 }, {
-    img: "/static/img/title4.png",
+    img: "../../static/img/title4.png",
     title: "作品"
 }, {
-    img: "/static/img/title2.png",
+    img: "../../static/img/title2.png",
     title: "联系我"
 }]
 export const link = [{
     href: 'https://github.com/HaipingXiaotong',
-    src: '/static/me/github.png'
+    src: '../../static/me/github.png'
 }, {
     href: 'http://weibo.com/lhp1016',
-    src: '/static/me/blog.png'
+    src: 'static/me/blog.png'
 }, {
     href: 'https://www.zhihu.com/people/dan-zou-12',
-    src: '/static//me/zhi.png'
+    src: '../../static/me/zhi.png'
 }, {
     href: 'http://haiping313.cn',
-    src: '/static//me/chat.png'
+    src: '../../static/me/chat.png'
 }, {
     href: '#',
-    src: '/static/me/china.png'
+    src: '../../static/me/china.png'
 }]
